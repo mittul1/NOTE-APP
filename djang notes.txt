@@ -1,0 +1,3 @@
+django notes 
+
+app(for example- pages or pools) ma bhako urls.py decides the urls in actual browser
